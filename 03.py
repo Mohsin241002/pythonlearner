@@ -9,3 +9,4 @@ b = int(b)
 print((a+b)/2)
 
 print("hello world")
+print("hii")
